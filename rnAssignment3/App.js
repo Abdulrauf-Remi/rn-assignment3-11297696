@@ -41,7 +41,6 @@ export default function App() {
     { key: "Karting" },
     { key: "Sceneries" },
     { key: "Conference" },
-    { key: "Shoplifting" },
     { key: "Vacation" },
     { key: "Hungout" },
     { key: "Family-time" },
